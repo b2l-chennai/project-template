@@ -10,4 +10,4 @@ assignees: ''
 # About me
 
 
-# Tech Stack I
+# Tech Stack
