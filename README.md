@@ -7,7 +7,7 @@ A template project for community members to clone and setup their project, this 
 2. Remove this and the above section
 3. Update the following sections with your project info
 
-# <Project Name> 
+# Project Name 
 
 Detailed project description here
 
